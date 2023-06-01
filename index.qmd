@@ -1,5 +1,5 @@
 ---
-title: "Laelis_Blog"
+title: "Posts"
 listing:
   contents: posts
   sort: "date desc"
