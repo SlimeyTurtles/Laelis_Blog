@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hi I’m Laeli!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Laelis_Blog",
+    "section": "",
+    "text": "My Fair Lady\n\n\n\n\n\n\n\ntheatre\n\n\nfilm\n\n\nmy fair lady\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nLaeli Gordon\n\n\n\n\n\n\n  \n\n\n\n\nDune\n\n\n\n\n\n\n\nnovel\n\n\nfilm\n\n\ndune\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\nLaeli Gordon\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/My_Fair_Lady/index.html",
+    "href": "posts/My_Fair_Lady/index.html",
+    "title": "My Fair Lady",
+    "section": "",
+    "text": "First star\n    Second star\n    Third star\n    Fourth star\n    Fifth star\n    4.95 out of 5\n\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/Dune_1/index.html",
+    "href": "posts/Dune_1/index.html",
+    "title": "Dune",
+    "section": "",
+    "text": "Dune is my favorite book"
+  }
+]

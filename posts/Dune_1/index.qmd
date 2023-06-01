@@ -1,0 +1,9 @@
+---
+title: "Dune"
+author: "Laeli Gordon"
+date: "2023-06-01"
+categories: [novel, film, dune]
+image: "dune_book_cover.jpg"
+---
+
+Dune is my favorite book
